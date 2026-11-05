@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-express-checkout-nuxt",
+  "capabilityKey": "planned:ecommerce:express-checkout",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-ecommerce-express-checkout-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/ecommerce/nextjs/express-checkout.md",
+  "presentationPlan": "projects/ecommerce/nuxt/express-checkout.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
